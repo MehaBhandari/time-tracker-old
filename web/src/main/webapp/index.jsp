@@ -12,8 +12,10 @@
 </head>
 <body>
   <h1>Super Simple Example Web Page</h1>
+  <h2>This is a test heading</h2>
   <p>
     This is a very simple example web page on a JSP.
   </p>
+  <p>These are testing purpose changes</p>
 </body>
 </html>
